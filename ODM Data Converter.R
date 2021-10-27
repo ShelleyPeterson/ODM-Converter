@@ -1,5 +1,5 @@
 #Wastewater Surveillance Data Hub Uploader
-#Written by Shelley Peterson, Wastewater Surveillance, Public Health Agency of Canada
+#Written by Shelley Peterson, Wastewater Surveillance, National Microbiology Laboratory, Public Health Agency of Canada
 #Version: 2021-09-24
 
 library(tidyverse)
